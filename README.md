@@ -1,5 +1,17 @@
 # Quiz-App-Vanilla-JS
 
+## Table of Content
+- Demo
+- Description
+- Built with
+- Setup
+- Features
+- Contributing 
+- License
+
+## Demo of Quiz App
+<img src='https://github.com/stphncrt/Quiz-App-Vanilla-JS/blob/main/assets/QuizApp.gif' ></img>
+
 ## About The Project
 
 Quiz App was developed for any anyone who wants to improve his/her IT knowledge by practicing.
@@ -21,7 +33,6 @@ At the end of your quiz, you are going to face the result page. On the right-han
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-0f61fa?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-ffba08?style=flat-square&logo=JavaScript&logoColor=black" />
  </p>
-
 
 
 ### Installation
@@ -47,5 +58,3 @@ If you have a suggestion that would make this better, please fork the repo and c
   5.  Open a Pull Request
 
 
-## Demo of Quiz App
-<img src='https://github.com/stphncrt/Quiz-App-Vanilla-JS/blob/main/assets/QuizApp.gif' ></img>
